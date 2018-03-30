@@ -1,3 +1,3 @@
 # pipeline
 
-CI/CD testing purpose only
+CI/CD testing for purpose only
